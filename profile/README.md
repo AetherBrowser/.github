@@ -52,5 +52,5 @@ Projects under the Aether organization are licensed under the **[Mozilla Public 
 ---
 
 <p align="center">
-  <sub>Built with ❤️ by the Ant Design Team and contributors worldwide</sub>
+  <sub>Built with ❤️ by the Aether Team and contributors worldwide</sub>
 </p>
