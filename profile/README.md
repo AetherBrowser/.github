@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <a href="https://aetherbrowser.org">Official Website (Not release yet)</a> •
+  <a href="https://aetherbrowser.org">Official Website</a> •
   <a href="https://github.com/AetherBrowser/aether">Main repository</a> •
   <a href="https://github.com/AetherBrowser/aether-nightly-builds/releases">Downloads (Nightly)</a> •
   <a href="https://github.com/AetherBrowser">GitHub Organization</a> •
